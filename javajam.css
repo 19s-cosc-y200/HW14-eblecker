@@ -1,0 +1,95 @@
+/*-- CSS page HW14 -->
+<!-- Project Name: JavaJam Web Site (HW14)
+Author: Emilie Blecker
+Date Last Modified: 4/21/2019*/
+
+
+#wrapper
+{
+    width: 80%;
+    background-color: #fef6c2;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 2px;
+    margin-right: auto;
+    margin-left: auto;
+}
+body
+{
+    background-color: #fcebb6;
+    color: #221811;
+    background-image: url("background.gif"); 
+    font-family:arial;
+    font-style:bold;
+    line-height: 200%;
+    list-style-position: inside;
+}
+header
+{
+ 
+    background-color: #d2b48c;
+    text-align:center;
+    line-height: 150px;
+    background-image: url("javajamlogo.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1
+{
+    line-height: 200%;
+    padding-top: 45px;
+    padding-left: 220px;
+    font-size: 3em;
+}
+
+nav
+{
+    font-weight:bold;
+    text-align:center;
+    font-size: 1.5em;
+    padding-top: 10px;
+    text-decoration: none;
+}
+main
+{
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+    display: block;
+    text-align: left;
+}
+
+h4
+{
+    background-color: #d2b48c;
+    font-size:1.2em;
+    padding-left: .5em;
+    padding-bottom: .25em
+}
+
+div
+{
+    font-size: 14px;
+}
+
+footer
+{
+    background-color: #d2b48c;
+    font-size: .60em;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 10px;
+    border-top: 2px solid #221811;
+}
+
+.details
+{
+    padding-left: 20%;
+    padding-right: 20%
+}
+
+img
+{
+    padding-left: 10px;
+    padding-right: 10px; 
+}
